@@ -22,15 +22,7 @@ const JOBS = [
     ],
   },
   {
-    date: 'May 2024\nSep 2024',
-    role: 'Software Developer Intern',
-    company: 'Cognizant Technology Solutions · Pune',
-    bullets: [
-      'Completed .NET Core, C#, Azure, and SQL training; contributed to internal tooling.',
-    ],
-  },
-  {
-    date: 'Feb 2023\nMay 2023',
+    date: 'May 2024\nSept 2024',
     role: 'Full Stack Developer Intern',
     company: 'Pixaflip Technology · Pune',
     bullets: [
