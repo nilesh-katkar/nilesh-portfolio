@@ -23,7 +23,7 @@ export default function Home() {
       <hr className="divider" />
       <Contact />
       <footer>
-        <p>nileshkatkar-dev · Built with care © 2025</p>
+        <p>nileshkatkar-dev · Built with care © 2026</p>
       </footer>
       {/* Scroll animations — runs after mount */}
       <ScrollReveal />
