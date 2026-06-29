@@ -8,7 +8,7 @@ const PROJECTS = [
   },
   {
     title: 'JustCabs — Online Cab Booking',
-    link: 'https://github.com/kd2-80090',
+    link: 'https://github.com/kd2-80085/online-cab-booking',
     desc: 'End-to-end cab booking system where customers book rides, make payments, and rate drivers. Owners register drivers; admins approve registrations.',
     stack: ['J2EE', 'MySQL', 'React'],
   },

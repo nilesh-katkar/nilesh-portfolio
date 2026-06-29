@@ -45,7 +45,7 @@ export default function Hero() {
       <div className="hero-actions reveal reveal-delay-2">
         <a href="mailto:katkarnilesh23@gmail.com" className="btn-primary">Get in touch</a>
         <a href="https://linkedin.com/in/nilesh-katkar-971155186" target="_blank" rel="noreferrer" className="btn-secondary">LinkedIn ↗</a>
-        <a href="https://github.com/kd2-80090" target="_blank" rel="noreferrer" className="btn-secondary">GitHub ↗</a>
+        <a href="https://github.com/nilesh-katkar" target="_blank" rel="noreferrer" className="btn-secondary">GitHub ↗</a>
       </div>
       <div className="hero-meta reveal reveal-delay-3">
         <span className="hero-meta-item">📍 <strong>Pune, India</strong></span>
