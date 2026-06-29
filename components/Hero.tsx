@@ -30,7 +30,13 @@ export default function Hero() {
   return (
     <section className="hero" id="about">
       <div className="hero-top reveal">
-        <div className="hero-avatar">NK</div>
+        {/* <div className="hero-avatar">NK</div> */}
+        <img
+          src="https://github.com/nilesh-katkar.png"
+          alt="Nilesh Katkar"
+          className="hero-avatar"
+          style={{ objectFit: 'cover' }}
+        />
         <div className="hero-text">
           <p className="hero-eyebrow">available for full-time roles</p>
           <h1>Nilesh Katkar</h1>
